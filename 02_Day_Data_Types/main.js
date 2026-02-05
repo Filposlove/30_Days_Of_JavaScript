@@ -1,1 +1,1 @@
-// this is your main.js scriptcd 
+// This is your main.js scriptcd 
