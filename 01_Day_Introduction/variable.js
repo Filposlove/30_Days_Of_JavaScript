@@ -3,7 +3,7 @@ let firstName = 'Filpos' // first name of a person
 let lastName = 'Seife' // last name of a person
 let country = 'Ethiopia' // country
 let city = 'Addis Ababa' // capital city
-let age = 100 // age in years
+let age = 32 // age in years
 let isMarried = true
 
 // Declaring variables with number values
